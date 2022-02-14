@@ -16,7 +16,7 @@ adverse side effects of such proposals. The goal of the exercise is to come up w
 good simplified model of the housing market, not to come up with policy proposals you
 would necessarily vote for.).<br>
 <br>
-#Summary, recommendations and future work
+
 
 ## Summary:
 

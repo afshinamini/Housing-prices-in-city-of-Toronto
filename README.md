@@ -16,40 +16,6 @@ adverse side effects of such proposals. The goal of the exercise is to come up w
 good simplified model of the housing market, not to come up with policy proposals you
 would necessarily vote for.).<br>
 <br>
-To start answering this question, first we need to determine what parameters affect housing prices in Toronto.<br>
-<br>
-A study by Royal Bank of Canada and the Pambia Institute indicated following parameters affect housing prices in Toronto:
-<br>
-* Real income and demographics
-* The cost and accessibility of mortgages
-* Construction and development costs
-* Land availability and regulations
-* Location and housing stock supply and demand
-
-Source:<br> 
-Pambia Institute:Understanding the factors affecting home prices in the GTA (https://www.pembina.org/pub/2502).<br>
-<br>
-Data from different sources (cited at the end) where gathered and compiled to take these factors into account in this anaysis:
-<br>
-* Monthly Home Transactions: database containing monthly house sales information.
-* Ontario Employment Wages: Monthly wages across Ontario.
-* Land Pricing Index: Land price index in Toronto.
-* Mortgage Rates: prime and mortgage retes.
-* Average Residential Building Construction Price Index: an indec showing residential building costs in Toronto.<br>
-<br>
-
-In addition, a sixth parameter; total jobs in city of Toronto is also included.
-
-### Based on data availability, monthly data for an 11 years window from January 2011 to December 2021 is considered in this analysis.
-
-The structure of this report is as follow:<br>
-<br>
-1- Data<br>
-2- Exploratory Data Analysis<br>
-3- Forecasting Housing Prices<br>
-4- Summary, recommendations and future work<br>
-
-
 #Summary, recommendations and future work
 
 ## Summary:

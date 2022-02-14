@@ -39,7 +39,7 @@ Results of this analysis suggest that 'Average residential building construction
 
 ## Recommendation:
 
-Based on the results of this analysis and recommendations from Ontario Housing Affordability Task Force report in 2020 (https://www.ontario.ca/page/housing-affordability-task-force-report) one policy change is suggested that influences both identified parameters in order to reduce housing prices in Toronto:<br>
+Based on the results of this analysis and recommendations from Ontario Housing Affordability Task Force report in 2022 (https://www.ontario.ca/page/housing-affordability-task-force-report) one policy change is suggested that influences both identified parameters in order to reduce housing prices in Toronto:<br>
 
 **Give the province the authority to impose standards related to zoning, density and urban design and lessen the power that cities have over housing developments.** <br>
 This way, province can repeal municipal policies that focus on preserving a neighbourhood's character and reduce land prices especially for expensive neighbourhoods.<br> 
